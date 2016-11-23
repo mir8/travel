@@ -1,0 +1,96 @@
+<html>
+	<head>
+		<link rel=stylesheet type="text/css" href="style.css"></style>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script type="text/javascript" src="main.js"></script>
+		<title>Europe</title>
+	</head>
+	
+	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="#news">NEWS</a></li>
+  			<li><a href="#about">ABOUT</a></li>
+  			<li><a href="#contact">CONTACT</a></li>
+		</ul>
+		
+		<div style="text-align: center;">
+			<div style="height:100%;">
+				<div id="capa1">
+					<h1>Europe</h1>
+				</div>
+				<div id="capa2">
+					<img src="0.jpg" style="width:100%;">
+				</div>
+			</div>
+
+			<div>
+
+			<!--PRIMERA FOTO-->
+
+			<div class="img">
+  				<a target="_blank" href="hungary.html">
+    				<img id="hide" src="img/Hungary/H_BW_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+    				<img id="show" src="img/Hungary/H_Color_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+  				</a>
+  				<div class="desc">HUNGARY</div>
+			</div>
+
+			<!--SEGONA FOTO-->
+
+			<div class="img">
+			  <a target="_blank" href="france.html">
+			    <img id="hide2" src="img/France/F_BW_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+    			<img id="show2" src="img/France/F_Color_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+			  </a>
+			  <div class="desc">FRANCE</div>
+			</div>
+
+			<!--TERCERA FOTO-->
+
+			<div class="img">
+			  <a target="_blank" href="spain.html">
+			    <img id="hide3" src="img/Spain/S_BW_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+    			<img id="show3" src="img/Spain/S_Color_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+			  </a>
+			  <div class="desc">SPAIN</div>
+			</div>
+
+			<!--QUARTA FOTO-->
+
+			<div class="img">
+			  <a target="_blank" href="Romania.html">
+			    <img id="hide4" src="img/Romania/R_BW_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+    			<img id="show4" src="img/Romania/R_Color_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+			  </a>
+			  <div class="desc">ROMANIA</div>
+			</div>
+
+			<!--QUINTA FOTO-->
+
+			<div class="img">
+  				<a target="_blank" href="italy.html">
+    				<img id="hide5" src="img/Italy/I_BW_Min.jpg" alt="Italy" width="300" height="200">
+    				<img id="show5" src="img/Italy/I_Color_Min.jpg" alt="Italy" width="300" height="200">
+  				</a>
+  				<div class="desc">ITALY</div>
+			</div>
+
+			<!--SEXTA FOTO-->
+
+			<div class="img">
+			  <a target="_blank" href="Germany.html">
+			    <img id="hide6" src="img/Germany/G_BW_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+    			<img id="show6" src="img/Germany/G_Color_Min.jpg" alt="Trolltunga Norway" width="300" height="200">
+			  </a>
+			  <div class="desc">GERMANY</div>
+			</div>
+
+		</div>
+
+		
+
+		
+	</body>
+	
+</html>
